@@ -1,0 +1,12 @@
+[project]
+name = "masters-thesis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "sonics",
+]
+
+[tool.uv.sources]
+sonics = { git = "https://github.com/awsaf49/sonics.git" }
