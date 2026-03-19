@@ -1,4 +1,5 @@
 # Masters_thesis
 
 ## Bibliography
-[1]
+[1] [EVALUATING FAKE MUSIC DETECTION PERFORMANCE UNDER AUDIO AUGMENTATIONS](https://arxiv.org/pdf/2507.10447)
+[2] 
